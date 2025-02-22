@@ -49,11 +49,12 @@ Ce projet vise à automatiser la gestion des présences lors des examens académ
 ![Image](https://github.com/user-attachments/assets/70a6270c-f524-4072-90d0-0ccc7047aab5)
 
 
-✅ **Gestion des enseignants** (Ajout, modification, suppression)
+✅ **Dashboard
 ![Image](https://github.com/user-attachments/assets/a3af0091-86d0-406b-bf83-e0ccfa86cdbd)
 
 
-✅ **Gestion des étudiants** (Ajout, modification, suppression)
+
+✅ **Gestion des enseignants** (Ajout, modification, suppression)
 ![Image](https://github.com/user-attachments/assets/c5ee1691-7567-4cac-abb1-b0eb75666e60)
 
 
