@@ -33,33 +33,34 @@ Ce projet vise à automatiser la gestion des présences lors des examens académ
 ![Image](https://github.com/user-attachments/assets/c2ac436d-75cc-4aaa-a1b7-7c95126f158c)
 
 ✅ **Sélection de la salle d'examen**
-![Image](https://github.com/user-attachments/assets/c2ac436d-75cc-4aaa-a1b7-7c95126f158c)
-
-✅ **Détection et enregistrement des étudiants par reconnaissance faciale**
 ![Image](https://github.com/user-attachments/assets/4c76b334-82b6-428d-8ac0-914540640d8b)
 
-✅ **Affichage en temps réel des présences enregistrées**
+✅ **Détection et enregistrement des étudiants par reconnaissance faciale**
 ![Image](https://github.com/user-attachments/assets/54fea7a6-ee24-42f1-9ef3-cb96e955a791)
 
-
+✅ **Affichage en temps réel des présences enregistrées**
 ![Image](https://github.com/user-attachments/assets/0200d2ff-42f3-46a3-9c4d-5f364f485c94)
-
-![Image](https://github.com/user-attachments/assets/70a6270c-f524-4072-90d0-0ccc7047aab5)
-
-![Image](https://github.com/user-attachments/assets/a3af0091-86d0-406b-bf83-e0ccfa86cdbd)
-
-![Image](https://github.com/user-attachments/assets/c5ee1691-7567-4cac-abb1-b0eb75666e60)
-
-![Image](https://github.com/user-attachments/assets/126273be-9654-4097-806e-b7aa18473152)
 
 
 
 ### 🌍 Interface Web (Admin)
 ✅ **Connexion sécurisée**
+
+![Image](https://github.com/user-attachments/assets/70a6270c-f524-4072-90d0-0ccc7047aab5)
+
+
 ✅ **Gestion des enseignants** (Ajout, modification, suppression)
+![Image](https://github.com/user-attachments/assets/a3af0091-86d0-406b-bf83-e0ccfa86cdbd)
+
+
 ✅ **Gestion des étudiants** (Ajout, modification, suppression)
+![Image](https://github.com/user-attachments/assets/c5ee1691-7567-4cac-abb1-b0eb75666e60)
+
+
+
 ✅ **Gestion des salles et des examens**
-✅ **Visualisation des présences**
+![Image](https://github.com/user-attachments/assets/126273be-9654-4097-806e-b7aa18473152)
+
 
 ---
 
