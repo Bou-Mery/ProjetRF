@@ -30,6 +30,7 @@ Ce projet vise à automatiser la gestion des présences lors des examens académ
 
 ### 🖥️ Application Desktop
 ✅ **Authentification des enseignants**
+
 ✅ **Sélection de la salle d'examen**
 ✅ **Détection et enregistrement des étudiants par reconnaissance faciale**
 ✅ **Affichage en temps réel des présences enregistrées**
@@ -52,8 +53,8 @@ Ce projet vise à automatiser la gestion des présences lors des examens académ
 ### 🚀 Installation
 ```bash
 # Cloner le projet
-git clone https://github.com/nom-utilisateur/projet-reconnaissance-faciale.git
-cd projet-reconnaissance-faciale
+git clone git remote add origin https://github.com/Bou-Mery/ProjetRF.git
+cd ProjetRF
 
 # Installer les dépendances du backend
 cd backend
@@ -82,4 +83,6 @@ python assemblage.py
 
 
 📌 **Contactez-nous pour toute amélioration ou contribution !** 😊
-
+- BOUKHRAIS Meryem ([GitHub Profile](https://github.com/Bou-Mery
+- SAKHR Niama
+- BALLOUK Mohamed
