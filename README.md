@@ -30,7 +30,7 @@ Ce projet vise à automatiser la gestion des présences lors des examens académ
 
 ### 🖥️ Application Desktop
 ✅ **Authentification des enseignants**
-
+![Image](https://github.com/user-attachments/assets/c2ac436d-75cc-4aaa-a1b7-7c95126f158c)
 ✅ **Sélection de la salle d'examen**
 ✅ **Détection et enregistrement des étudiants par reconnaissance faciale**
 ✅ **Affichage en temps réel des présences enregistrées**
