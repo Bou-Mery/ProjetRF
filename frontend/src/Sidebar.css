@@ -1,0 +1,82 @@
+/* Sidebar.css */
+
+.sidebar {
+    background-color: #f6e4ff;
+    padding: 20px;
+    width: 200px; /* Augmentez la largeur selon vos besoins */
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-top: 20px; /* Ajout d'un espace en haut */
+    border-bottom: 1px solid #ccc; /* Ajout d'une ligne de séparation */
+  }
+  
+  .profile-image {
+    width: 80px; /* Ajustez la taille de l'image circulaire */
+    height: 80px; /* Ajustez la taille de l'image circulaire */
+    border-radius: 50%; /* Crée un cercle */
+    overflow: hidden;
+    margin-bottom: 10px; /* Espace en bas de l'image */
+  }
+  
+  .profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+  }
+  
+  .profile-title {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #9917ba;
+  }
+  
+  .sidebar-menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 20px; /* Espace en bas de la liste du menu */
+  }
+  
+  .sidebar-menu li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-menu a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold; /* Mettre les titres en gras */
+    transition: color 0.2s; /* Ajout de transition sur la couleur */
+  }
+  
+  .sidebar-menu li:hover a {
+    color: #a825ff; /* Couleur du lien survolé */
+  }
+  
+  .sidebar-menu li svg {
+    margin-right: 10px;
+    color: #8f00b3; /* Couleur des icônes */
+    transition: color 0.2s; /* Ajout de transition sur la couleur */
+  }
+  
+  .sidebar-menu li:hover svg {
+    color: #fffdfd; /* Couleur de l'icône survolée */
+  }
+  
+  /* Ajout des styles pour les cadres */
+  .sidebar-menu li {
+    cursor: pointer;
+  }
+  
+  .sidebar-menu li.active {
+    background-color: #d8bce6; /* Couleur de fond lorsque l'élément est actif */
+    border-radius: 5px; /* Ajout d'un arrondi au cadre */
+    color :white ;
+  }

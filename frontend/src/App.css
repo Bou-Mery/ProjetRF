@@ -1,0 +1,15 @@
+/* App.css */
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: "#FCF1FE" ;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+/* Ajoutez d'autres styles selon vos besoins */

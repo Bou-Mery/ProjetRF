@@ -1,0 +1,14 @@
+/* Topbar.css */
+
+.topbar {
+    background-color: #81549e;
+    padding: 4px;
+    display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center; /* Centrer verticalement */
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+  
+  /* Ajoutez d'autres styles selon vos besoins */
