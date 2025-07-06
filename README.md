@@ -102,8 +102,6 @@ python assemblage.py
 
 ## 👥 Contributeurs
 
-
-📌 **Contactez-nous pour toute amélioration ou contribution !** 😊
 - BOUKHRAIS Meryem ([GitHub Profile](https://github.com/Bou-Mery
 - SAKHR Niama
 - BALLOUK Mohamed
